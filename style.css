@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: darkblue;
+    padding: 10px;
+}
+header a { 
+    color: #FFFFFF;
+}
+header b {
+    color: 	#696969;
+}
+h1 {
+    color: orange;
+    text-align: center;
+    border: 3px solid red;
+    border-radius: 20px 20px;
+}
+footer {
+    border: 3px solid blue;
+
+}
+footer p {
+    border: 3px solid blue;
+    margin: 10px
+}
+nav {
+    border: 2px solid red;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+nav a {
+    margin: 25px;
+    color: red;
+    text-decoration: 1px
+}
+ p {
+    color: white;
+    background-color: red;
+    border: 0px;
+    border-radius: 5px;
+}
+h2 {
+    color: blue;
+}
+  main a {
+    text-decoration: 10px;
+    
+}
+
